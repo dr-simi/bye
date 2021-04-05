@@ -7,7 +7,7 @@ En el móvil, es muy difícil para ti usarlo, así que usa el sitio web de [Goor
 ### Solicitud personal
 Por favor NO QUITE créditos, me tomó mucho tiempo y necesitaba mucha dedicación para crear un BOT brasileño como ese, gracias por su cooperación.
 
-### Traducido por Samu330
+### Traducido por Ω DR SIMI Ω
 
 ### Funciones (no todas, +130)
 
@@ -63,8 +63,8 @@ Por favor NO QUITE créditos, me tomó mucho tiempo y necesitaba mucha dedicaci�
 Necesita tener este repositorio, es simple, ejecute los siguientes comandos, en caso de errores, ejecútelo como sudo/administrador.
 
 ```bash
-> git clone https://github.com/Samu330/iris.git
-> cd iris
+> git clone https://github.com/dr-simi/bye
+> cd bye
 > npm i
 ```
 
@@ -83,7 +83,7 @@ Escriba en su chat el mensaje:
 ```
 
 ### Crea tus comandos
-Abre tu config.js y encuentra un pequeño espacio en blanco, te daré un ejemplo de una respuesta simple, ve a probarlo como quieras, a otros tipos, puedes ver cuáles aquí [https://docs.openwa.dev/classes/client.html) y en caso de duda, llámame por [aquí](https://wa.me/+529984907794).
+Abre tu config.js y encuentra un pequeño espacio en blanco, te daré un ejemplo de una respuesta simple, ve a probarlo como quieras, a otros tipos, puedes ver cuáles aquí [https://docs.openwa.dev/classes/client.html) y en caso de duda, llámame por [aquí](https://wa.me/+59984907794).
 
 ```bash
 case 'nombre del comando sin espacios':
