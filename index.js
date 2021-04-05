@@ -7,9 +7,9 @@ const config = require('./lib/config/config.json')
 
 // Cria um cliente de inicialização da BOT
 const start = (kill = new Client()) => {
-    console.log(color('\n> DEV OFICIAL ='), color(' Samu330 > https://wa.me/+529984907794', 'yellow'))
-	console.log(color('\n> GRUPO OFICIAL ='), color(' https://chat.whatsapp.com/Dwu4XpOYOGCDHYDlSoZZG0', 'yellow'))
-	console.log(color('\n>'), color('[Samu330] Inicializacion finalizada, YA PUEDES USAR COMADOS...\n', 'red'))
+    console.log(color('\n> DEV OFICIAL ='), color(' Ω DR SIMI Ω > https://wa.me/+59984907794', 'yellow'))
+	console.log(color('\n> GRUPO OFICIAL ='), color(' https://chat.whatsapp.com/Dwu4pOYOGCDHYDlSoZZG0', 'yellow'))
+	console.log(color('\n>'), color('[Ω DR SIMI Ω] Inicializacion finalizada, YA PUEDES USAR COMADOS...\n', 'red'))
 	
 		// Forçar recarregamento caso obtenha erros
 		kill.onStateChanged((state) => {
