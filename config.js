@@ -244,7 +244,7 @@ module.exports = kconfig = async (kill, message) => {
 		case 'samu330':
 		case 'samu':
 			//SI VAN A MODIFICAR EL BOT, PORFAVOR NO QUITAR NI MODIFICAR ESTA PARTE PORFAVOR, GRACIAS.
-    			await kill.reply(from, '😍🤗 *GRACIAS POR INTERESARTE EN MI* Y GRACIAS POR USAR MI BOT\n\n*TE GUSTARIA APOYARME?😖*\nPls no es complicado, solo te pido una suscripcion a mi canal:D\nSI?😰\nAIIII GRACIAS☺, AVER PS, AQUI TE DEJO MI CANAL:D\n\nhttps://www.youtube.com/channel/UCHD4T8Pfcv5PFVzsAbfAPZA\n\n_SI COMPARTES ME AYUDARIAS MAS_ *GRACIAS!😉*', id)
+    			await kill.reply(from, '😍🤗 *GRACIAS POR INTERESARTE EN MI* Y GRACIAS POR USAR MI BOT\n\n*TE GUSTARIA APOYARME?😖*\nPls no es complicado, solo te pido una suscripcion a mi canal:D\nSI?😰\nAIIII GRACIAS☺, AVER PS, AQUI TE DEJO MI CANAL:D\n\nhttps://www.youtube.com/channel/UCHDT8Pfcv5PFVzsAbfAPZA\n\n_SI COMPARTES ME AYUDARIAS MAS_ *GRACIAS!😉*', id)
    			break
 			//________________________________________________________________________________________
 			
